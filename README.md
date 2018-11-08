@@ -5,5 +5,6 @@
 
 使用方法 ：
         AnimaLinlayout animaLinlayout = findViewById(R.id.line);
+        
         animaLinlayout.addAnima(this);
    
